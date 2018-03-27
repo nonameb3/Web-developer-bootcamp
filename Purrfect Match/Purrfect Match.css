@@ -1,0 +1,29 @@
+#center{
+	color: white;
+	text-align: center;
+	padding-top: 25%;
+	text-shadow: 0px 4px 3px rgba(0,0,0,0.4),
+					0px	8px 13px rgba(0,0,0,0.1),
+					0px	18px 23px rgba(0,0,0,0.1)
+}
+html{
+	height: 100%;
+}
+
+body{
+	background: url(https://images.unsplash.com/photo-1509228552759-5ff5395178ae?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=08f25add18176508ef3ff052dba36fa4&auto=format&fit=crop&w=1950&q=80);
+	background-size: cover;
+	background-position: center;
+	font-family: 'Catamaran', sans-serif;
+}
+
+h1{
+	font-weight: 600;
+	font-size: 5em;
+}
+
+hr {
+	width: 400px;
+    border-top: 1px solid white;
+    border-bottom: 1px solid rgba(0.0.0.0.2)
+    }
