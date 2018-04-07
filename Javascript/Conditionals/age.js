@@ -1,7 +1,8 @@
-var age = Number(prompt("What is your age?"));
+var age = Number(prompt("What is your age?")) ;
 
 
-if(age < 0  ){
+
+if(age < 0 ){
 	console.log("Error")
 	alert("Error")
 }
