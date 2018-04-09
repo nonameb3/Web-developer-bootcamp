@@ -18,6 +18,8 @@ My exercise from Colt Steele's Udemy Web Development course.
 - For Loop Problem set
 - While Loop Problem set
 - Functions Problem Set
-
+- Array Problem Set
+- Todo List Part1 & Part 2
+- A little More.
 
 
