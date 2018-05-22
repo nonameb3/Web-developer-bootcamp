@@ -5,6 +5,11 @@ My exercise from Colt Steele's Udemy Web Development course.
 ---------
 ##Concepts & Exercises
 
+###Project
+- [ColorGame](https://rawgit.com/nonameb3/twd.colorgame/master/color.html)
+- [Todo-List](https://rawgit.com/nonameb3/twd.todo/master/todo.html)
+- [Patatap](https://rawgit.com/nonameb3/twd.Patatap-clone/master/index.html)
+
 ###HTML & CSS Exercise
 
 - [Tic Tac Toe](https://cdn.rawgit.com/nonameb3/Web-developer-bootcamp/2b7bb3e3/HTML%20and%20CSS/Tic%20Tac%20Toe/3t.html)
