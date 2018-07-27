@@ -1,0 +1,58 @@
+html {
+    background-color: #00849E;
+}
+
+div.Main {
+    background-color: whitesmoke;
+    text-align: center;
+    margin: auto;
+    padding-bottom: 20px;
+    margin-top: 5%;
+    width: 400px;
+    height: auto;
+    border: 2px solid pink;
+    -webkit-box-shadow: 5px 5px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-box-shadow: 5px 5px 10px 0px rgba(50, 50, 50, 0.75);
+    box-shadow: 5px 5px 10px 0px rgba(50, 50, 50, 0.75);
+    -moz-border-radius-topleft: 73px;
+    -webkit-border-top-left-radius: 73px;
+    border-top-left-radius: 73px;
+    -moz-border-radius-topright: 5px;
+    -webkit-border-top-right-radius: 5px;
+    border-top-right-radius: 5px;
+    -moz-border-radius-bottomright: 54px;
+    -webkit-border-bottom-right-radius: 54px;
+    border-bottom-right-radius: 54px;
+}
+
+p {
+    display: inline-block;
+}
+
+a{
+    font-size: 120%;
+    text-decoration: none;
+}
+
+a:hover{
+    font-size: 120%;
+    text-decoration: none;
+    color: aqua;
+}
+h2,h4{
+    color: #24292E;
+}
+
+.Content {
+    padding-bottom: -10px;
+}
+
+.Slide {
+    background-color: whitesmoke;
+    display: inline-block;
+}
+
+img {
+    height: 220px;
+    border-radius: 10%;
+}
