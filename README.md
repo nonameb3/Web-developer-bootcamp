@@ -1,4 +1,4 @@
-# The Web Developer Bootcamp ![Progress](http://progressed.io/bar/75)
+# The Web Developer Bootcamp ![Progress](http://progressed.io/bar/100)
 ## Colt Steele's Udemy Course
 My exercise from Colt Steele's Udemy Web Development course.
 
@@ -17,6 +17,7 @@ My exercise from Colt Steele's Udemy Web Development course.
 - [Photo Grid Bootstrap 4](https://rawcdn.githack.com/nonameb3/Web-developer-bootcamp/2b7bb3e3/HTML%20and%20CSS/bootstrap%20Image%20Gallery/bootstrap%20Image%20Gallery.html)
 - [Blog Post](https://rawcdn.githack.com/nonameb3/Web-developer-bootcamp/2b7bb3e3/HTML%20and%20CSS/Blog/blog.html)
 - [Landing Page Purrect Match](https://rawcdn.githack.com/nonameb3/Web-developer-bootcamp/2b7bb3e3/HTML%20and%20CSS/Purrfect%20Match/Purrfect%20Match.html)
+- [Bootstrap 4 Page](https://rawcdn.githack.com/nonameb3/Web-developer-bootcamp/bdf393251453a4311620edfd5e20c6b7e0faf74f/Extra/Bootstrap4/13_Museum_Of_Candy/Final/index.html)
 
 ### Javascript Exercise
 
