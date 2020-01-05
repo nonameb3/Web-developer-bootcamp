@@ -1,4 +1,4 @@
-# The Web Developer Bootcamp ![Progress](http://progressed.io/bar/100)
+# The Web Developer Bootcamp !
 ## Colt Steele's Udemy Course
 My exercise from Colt Steele's Udemy Web Development course.
 
